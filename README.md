@@ -1,4 +1,4 @@
-# 
+# INSTALLING
 
 apt update 
 
@@ -17,6 +17,8 @@ ls
 cd Random-File-Cloner-Pro
 
 python RuN.py
+
+#
 
 [![IMG-20230204-WA0011-01.jpg](https://i.postimg.cc/BnyJ7z9Z/IMG-20230204-WA0011-01.jpg)](https://postimg.cc/CRGyzmx9)
 
